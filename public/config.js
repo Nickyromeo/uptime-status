@@ -8,7 +8,7 @@ window.Config = {
 
   // 站点链接
 
-  SiteUrl: 'https://status.coolcloud.ga',
+  SiteUrl: 'https://status.coolcloud.ga/',
 
   // UptimeRobot Api 域名
 
@@ -18,7 +18,7 @@ window.Config = {
 
   // 详见 https://github.com/yb/uptime-status/ 说明
 
-  ApiDomain: 'status.coolcloud.ga',
+  ApiDomain: 'https://status.coolcloud.ga/',
 
   // UptimeRobot Api Keys
 
