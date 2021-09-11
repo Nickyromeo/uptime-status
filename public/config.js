@@ -27,13 +27,13 @@ window.Config = {
   ApiKeys: [
 
     'm789161082-6aae5627fffc95631f31b2d0',
-    
+    'm789161526-5f17a1e0123034c7e47cd398',
 
   ],
 
   // 是否显示监测站点的链接
 
-  ShowLink: false,
+  ShowLink: true,
 
   // 日志天数
 
