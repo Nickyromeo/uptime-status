@@ -8,7 +8,7 @@ window.Config = {
 
   // 站点链接
 
-  SiteUrl: '/',
+  SiteUrl: 'https://status.coolcloud.ga',
 
   // UptimeRobot Api 域名
 
@@ -27,12 +27,13 @@ window.Config = {
   ApiKeys: [
 
     'm789161082-6aae5627fffc95631f31b2d0',
-    'm789161277-2e3598b0fd3d19eeca12d089',
+    
+
   ],
 
   // 是否显示监测站点的链接
 
-  ShowLink: true,
+  ShowLink: false,
 
   // 日志天数
 
